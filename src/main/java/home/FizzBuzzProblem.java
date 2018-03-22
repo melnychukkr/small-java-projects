@@ -1,6 +1,9 @@
 package home;
 
-
+/**
+ * FizzBuzz problem solution using two if statements
+ * @author Karolina Melnychuk
+ */
 public class FizzBuzzProblem {
     public static void main(String[] args) {
         String convertedNumber;
