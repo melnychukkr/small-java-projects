@@ -2,6 +2,7 @@ package home;
 
 /**
  * FizzBuzz problem solution using two if statements
+ *
  * @author Karolina Melnychuk
  */
 public class FizzBuzzProblem {
